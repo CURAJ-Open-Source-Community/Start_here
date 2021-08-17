@@ -1,0 +1,23 @@
+name: Ideas
+description: Have a new idea or feature request
+title: "[FEATURE REQUEST] <description here>"
+labels: [enhancement]
+body:
+  - type: input
+    id: description
+    attributes:
+      label: Description of the idea
+    validations:
+      required: true
+  - type: textarea
+    id: screenshots
+    attributes:
+      label: Add (multiple) screenshot links (if applicable)
+    validations:
+      required: false
+  - type: input
+    id: context
+    attributes:
+      label: Add any other context about the fidea here
+    validations:
+      required: false
