@@ -7,6 +7,7 @@ body:
     id: description
     attributes:
       label: Description of the idea
+      placeholder: "What is your idea?"
     validations:
       required: true
   - type: textarea
@@ -21,3 +22,12 @@ body:
       label: Add any other context about the fidea here
     validations:
       required: false
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: Code of Conduct
+      description: By submitting this issue, you agree to follow our [Code of Conduct](https://github.com/CURAJ-Open-Source-Community/Support/blob/main/code_of_conduct.md)
+      options:
+        - label: I agree to follow this project's Code of Conduct
+          required: true
+ 
