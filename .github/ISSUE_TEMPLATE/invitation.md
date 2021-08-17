@@ -7,7 +7,7 @@ assignees: shuklaritvik06
 
 ---
 
-Please invite me to the GitHub Community Organisation.
+Please invite me to the GitHub Community Organization.
 
 - #### Name:
 
