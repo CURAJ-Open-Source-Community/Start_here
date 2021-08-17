@@ -1,0 +1,19 @@
+name: Invite me to the org
+description: I would like to be part of this community
+title: "Please invite me to the CURAJ Open Source community"
+labels: [invite me to the organisation]
+body:
+  - type: input
+    id: name
+    attributes:
+      label: Name
+      placeholder: Enter your name here
+    validations:
+      required: true
+  - type: textarea
+    id: Additional
+    attributes:
+      label: What you expect from the community?
+      description: Addtional Context
+    validations:
+      required: false
