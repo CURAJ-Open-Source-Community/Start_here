@@ -19,7 +19,7 @@ body:
   - type: input
     id: context
     attributes:
-      label: Add any other context about the fidea here
+      label: Add any other context about the idea here
     validations:
       required: false
   - type: checkboxes
