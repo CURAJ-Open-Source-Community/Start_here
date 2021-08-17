@@ -2,6 +2,7 @@ name: Bug report
 description: Create a bug report to help us address errors in the repository
 title: "[BUG] <bug description>"
 labels: [bug]
+assignees: shuklaritvik06
 body:
   - type: input
     id: bugdescription
