@@ -1,7 +1,7 @@
 ---
 name: Invitation
 about: Invitation Template
-title: "[Invite]: "
+title: "Invite me to the Community"
 labels: Invite me
 assignees: shuklaritvik06
 
