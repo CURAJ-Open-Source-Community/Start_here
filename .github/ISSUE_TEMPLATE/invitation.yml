@@ -2,7 +2,6 @@ name: Invite me to the org
 description: I would like to be part of this community
 title: "Please invite me to the CURAJ Open Source community"
 labels: [invite me to the organization]
-assignees: [heygithub123]
 body:
   - type: input
     id: name
