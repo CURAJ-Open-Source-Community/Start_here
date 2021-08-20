@@ -5,7 +5,7 @@ labels: [bug]
 assignees: shuklaritvik06
 body:
   - type: markdown
-      value: "## Welcome!"
+    value: "## Welcome!"
   - type: markdown
     attributes:
       value: |
