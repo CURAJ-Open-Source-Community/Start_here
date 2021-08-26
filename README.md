@@ -1,5 +1,5 @@
 <h1 align="center"> Welcome to CURAJ Open Source Community Support</h1>
-<img alt= "Banner" src= "./img/banner.png">
+<img alt= "Banner" src= "./img/CURAJ OPEN SOURCE COMMUNITY.png">
 
 ### How to join the community? 
 
