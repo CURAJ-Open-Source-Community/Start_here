@@ -16,8 +16,6 @@ We believe that there is a learning opportunity for everyone in every question! 
 
 Ask your questions in the [Discussions](https://github.com/CURAJ-Open-Source-Community/Support/discussions) 
 
-You can JOIN our community [Slack](https://join.slack.com/t/opensourceatcuraj/shared_invite/zt-u6vwmlme-QbSPvhqveKkzQghpFp~gRQ) also.
-
 
 ## FAQ
 
@@ -40,5 +38,3 @@ You can JOIN our community [Slack](https://join.slack.com/t/opensourceatcuraj/sh
 	
 	<img src="./img/3.png">
   
-  <br>
-<img src= "./img/patrick-spongebob-squarepants.gif"><a href="https://join.slack.com/t/opensourceatcuraj/shared_invite/zt-u6vwmlme-QbSPvhqveKkzQghpFp~gRQ"><img src="./img/2111615.png" width="10%" height="10%"></a>
